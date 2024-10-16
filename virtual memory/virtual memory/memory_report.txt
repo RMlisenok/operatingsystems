@@ -1,0 +1,6 @@
+Page Size: 4096 bytes
+Granularity: 65536 bytes
+Physical Memory Usage: 11892707328 bytes
+Virtual Memory Usage: 4352512000 bytes
+Page File Usage: 14675148800 bytes
+-----------------------------------
